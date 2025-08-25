@@ -1,0 +1,3 @@
+# Created for system initialization
+
+%sudo ALL=(ALL) NOPASSWD:ALL
